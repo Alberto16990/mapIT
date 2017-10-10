@@ -1,0 +1,8 @@
+students<- data.frame(
+    Region = c("Abruzzo","Basilicata","Calabria","Campania",
+               "Emilia-Romagna","Friuli-Venezia Giulia","Lazio",
+               "Liguria","Lombardia","Marche","Molise","Piemonte",
+               "Puglia","Sardegna","Sicilia","Toscana",
+               "Trentino-Alto Adige","Umbria","Valle d'Aosta","Veneto"),
+    Wineries = c(22,8,9,35,24,74,19,8,41,29,5,191,22,14,40,173,57,29,6,92)
+ )
